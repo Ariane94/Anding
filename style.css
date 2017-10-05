@@ -3,11 +3,11 @@ body{
   background: rgb(245,245,245);
   color: green;
   font-size: 25px;
-  font-family: monospace;
+  font-family: Helvetica;
 }	
 h1{
   font-family: monospace;
-  color: red;
+  color: black;
   font-weight: bold;
   font-size: 20px;
 }
@@ -32,6 +32,7 @@ a:hover {
   padding: 150px;
   color: white;
   text-shadow: 1px 1px 5px black;
+  font-family: Bookman Old Style;
 }
 #banner h1 {
   color: white;
@@ -57,6 +58,8 @@ a:hover {
 }
 
 #wufoo-z1rltv4e0mn7npw{
+  border: 10px blue;
+  border:10px silver groove; 
   text-align: center;
   padding: 50px;
 }
